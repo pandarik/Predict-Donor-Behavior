@@ -1,4 +1,4 @@
-<h1 align="center"> Predict donor behavior </h1>
+<h1 align="center"> Predict Donor Behavior </h1>
 <h2 align="center"> Deep Learning </h2>
 
 <div align="center">
