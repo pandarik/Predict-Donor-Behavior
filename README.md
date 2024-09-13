@@ -82,7 +82,7 @@ The project will focus on the following key questions:
 - Krishna :
 - Caleb :
 - Jim :
-- Walgama : Code base and visuals related to the "Non Donors"
+- Walgama : Code base and visuals related to the "Non Donors features"
 
 
 
