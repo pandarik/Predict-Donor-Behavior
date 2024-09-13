@@ -79,9 +79,9 @@ The project will focus on the following key questions:
 - Master Data : This folder contains the master data and the data dictionary before the cleaning.
 - Final_presentation : Include the final presentation.
 - Shannon: Code base and visuals related to the "Alumni Fund"
-- Krishna :
-- Caleb :
-- Jim :
+- Krishna : Code base for exploratory Data Analysis of Donors and Non-Donors to better understand insights into the composition and their engagement in different campus activities such as 'Student Organizations', 'Arts', 'Fraternal Organizations',  athletics, and age group.
+- Caleb : 
+- Jim : Tableau visualization of the data insights and patterns. 
 - Walgama : Code base and visuals related to the "Non Donors features"
 
 
